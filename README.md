@@ -54,7 +54,7 @@ Your layout should now look like this.
     └── webservers.yml
 ```
 
-![roles created](./Images/001.PNG)
+![roles](./Images/001.png)
 
 Now paste the instruction below into the env-vars.yml file.
 
